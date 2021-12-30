@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cscough
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning anything I can 
+- 📫 Reach me at curtiscoughenour0@gmail.com or https://www.linkedin.com/in/curtis-coughenour-6534541aa/
